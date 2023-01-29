@@ -1,3 +1,4 @@
+console.log("START");
 let sepet = [];
 let sepetGozuktu = false;
 $(document).ready(function () {
